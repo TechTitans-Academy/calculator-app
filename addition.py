@@ -8,4 +8,4 @@ num2 = float(input("Enter second number: "))
 result = num1 + num2
 
 # output
-print("The sum of the number is:", result)
+print("The Addition of the number is:", result)
