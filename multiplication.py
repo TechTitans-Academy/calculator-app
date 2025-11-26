@@ -1,4 +1,4 @@
-# Simple Python program to multiply two numbers
+#Simple Python program to multiply two numbers
 
 # taking inputs
 num1 = float(input("Enter first number: "))
