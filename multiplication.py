@@ -9,3 +9,4 @@ result = num1 * num2
 
 # output
 print("The Multiplication of the number is:", result)
+devops-class-2
